@@ -21,31 +21,54 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Machine Learning"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/UATZVDT7VNDR"
+  date_start = "2018-05-30"
   date_end = ""
-  description = ""
+  description = "An online non-credit course authorized by Stanford University and offered through Coursera"
+
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Deep Learning Specialization"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/8ZWCFMMUA29E"
+  date_start = "2020-12-23"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "The Deep Learning Specialization is designed to prepare learners to participate in the development of cutting-edge AI technology, and to understand the capability, the challenges, and the consequences of the rise of deep learning. Through five interconnected courses, learners develop a profound knowledge of the hottest AI algorithms, mastering deep learning from its foundations (neural networks) to its industry applications (Computer Vision, Natural Language Processing, Speech Recognition, etc.)."
+
+
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Using Python to Access Web Data"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/WS5PGB69ZYPV"
+  date_start = "2017-05-17"
+  date_end = ""
+  description ="An online non-credit course authorized by University of Michigan and offered through Coursera"
+  
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Using Databases with Python"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/ZAB4T36FAJ2J"
+  date_start = "2017-05-21"
+  date_end = ""
+  description ="An online non-credit course authorized by University of Michigan and offered through Coursera"
+  
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Python Data Structures"
+  url = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/MS3J8QNKWLQQ"
+  date_start = "2017-05-14"
+  date_end = ""
+  description ="An online non-credit course authorized by University of Michigan and offered through Coursera"
 
 +++
